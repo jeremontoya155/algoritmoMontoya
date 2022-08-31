@@ -1,2 +1,2 @@
-# algoritmo Montoya
+# Algoritmo Montoya
 Resolucion primer algoritmo simple
