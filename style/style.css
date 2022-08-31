@@ -1,0 +1,21 @@
+* {
+  background-color: bisque;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.centrar {
+  text-align: center;
+}
+
+h1 {
+  font-size: 5em;
+}
+
+h2 {
+  font-size: 2em;
+}
+
+button {
+  font-size: 3em;
+  margin-top: 3em;
+}
